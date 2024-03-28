@@ -1,0 +1,19 @@
+{
+  "name": "mera-calculator",
+  "version": "1.0.0",
+  "description": "This is my simple calculator which works on CLI.",
+  "main": "index.js",
+  "type": "module",
+  "bin":"name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Zaki",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
